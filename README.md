@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abigail Manalo 👩🏻‍💻</h1>
-<h3 align="center">Aspiring to be a frontend or full-stack developer after graduating</h3>
+<h3 align="center">Aspiring to be a full-stack developer or UI/UX designer after graduating</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-manalo&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="a-manalo" /> </p>
 
