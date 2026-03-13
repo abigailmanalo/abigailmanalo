@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-manalo&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="a-manalo" /> </p>
 
 ## About Me
-- 🧠 I’m currently learning **Swift and CI4**
+- 🧠 I’m currently learning **React and React Native**
 <!-- - 💻 All of my projects are available at -->
 - 💌 How to reach me **agmnlo.by@gmail.com**
 
