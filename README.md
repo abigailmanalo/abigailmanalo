@@ -13,6 +13,37 @@
 For opportunities, projects, collaborations, you can reach me at:  
 ✉️ **agmnlo.by@gmail.com**
 
+## Featured Projects
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="images/biosnap.jpg" alt="Biosnap on a laptop and a phone" width="100%">
+      <h3>Biosnap – Flora and Fauna</h3>
+      <p>AI-powered web and mobile biodiversity inventory for Marikina City's Environmental Management Office.</p>
+      <p><sub><b>Capstone Project</b> · Next.js · React Native · Firebase</sub></p>
+      <img src="https://img.shields.io/badge/Private_Repository-6B7280?style=for-the-badge&logo=github&logoColor=white" alt="Private repository">
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="images/itso-equipment-management-system.jpg" alt="ITSO Equipment Management System home page" width="100%">
+      <h3>ITSO Equipment Management System</h3>
+      <p>Web system for borrowing, reserving and tracking IT equipment at FEU Institute of Technology.</p>
+      <p><sub><b>Academic Project</b> · PHP · CodeIgniter 4 · MySQL</sub></p>
+      <a href="https://github.com/abigailmanalo/itso-equipment-management-system" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="View ITSO Equipment Management System repository">
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="images/cocoir.jpg" alt="Cocoir e-commerce website home page" width="100%">
+      <h3>Cocoir</h3>
+      <p>E-commerce website promoting sustainable living through coconut coir-based products.</p>
+      <p><sub><b>Web App</b> · Next.js · React · MySQL</sub></p>
+      <a href="https://github.com/abigailmanalo/cocoir" target="_blank">
+        <img src="https://img.shields.io/badge/View_Repository-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="View Cocoir repository">
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 ### Frontend
 <p align="left">
